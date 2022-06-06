@@ -1,5 +1,6 @@
 <h2> Hi, developers 👋 </h2>
 <br>
--- 😃 I'm currently working as a PM <br>
+-- 🌈 I'm currently working as a Product Manager <br>
 -- 🐤 I'm a beginner in coding, and currently learning JavaScript, HTML, and CSS <br>
--- 💚 I'm a hiker lover in Taiwan
+-- 💚 I'm a hiker lover in Taiwan <br>
+-- 📮 <a href="mailto:bun.coding@gmail.com">reach me</a>
