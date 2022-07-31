@@ -5,3 +5,5 @@
 -- 💚 I'm a hiker lover in Taiwan <br>
 -- 🧊 I'm a ice cube lover during summer time <br>
 -- 📮 <a href="mailto:bun.coding@gmail.com">reach me</a>
+
+![](https://komarev.com/ghpvc/?username=thisIsBun)
