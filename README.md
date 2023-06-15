@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bun</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
-
-- 🔭 I’m currently working on [taipei-parking-2.0](https://thisisbun.github.io/taipei-parking-2.0/#/)
-
-- 🌱 I’m currently learning **React.js**
-
 - 📝 I regularly write articles on [https://medium.com/@bun.coding](https://medium.com/@bun.coding)
 
 <h3 align="left">Connect with me:</h3>
